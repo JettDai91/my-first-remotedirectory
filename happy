@@ -7,3 +7,5 @@ redis作为缓存，不用做消息队列
 redis之于大数据的交集，可以用于去重
 hotfix edit
 Now hotfix change some, but commited in master, OK?--cannot checkout
+msater edit
+both xuyao
