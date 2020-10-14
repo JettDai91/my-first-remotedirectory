@@ -6,4 +6,4 @@ redis作为缓存，不用做消息队列
 可以设置主从复制，配置哨兵模式
 redis之于大数据的交集，可以用于去重
 Now hotfix change some, but commited in master, OK?--cannot checkout
-hotfix edit
+hotfix edit1
