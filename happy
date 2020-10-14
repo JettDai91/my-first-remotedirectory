@@ -8,3 +8,5 @@ redis之于大数据的交集，可以用于去重
 Now hotfix change some, but commited in master, OK?--cannot checkout
 hotfix edit1
 master add this line
+# hotfix add this line
+注释保留hotfix
